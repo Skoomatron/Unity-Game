@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -20474,9 +20474,9 @@ TextureImporter:
       terrain_423: -543745431
       terrain_467: -1967749855
       terrain_326: -522498955
-      terrain_266: -374050796
-      terrain_294: 1256861517
       terrain_678: -1664306708
+      terrain_294: 1256861517
+      terrain_266: -374050796
       terrain_206: 1531293545
       terrain_81: -1673905480
       terrain_902: -1507772372
@@ -20920,8 +20920,8 @@ TextureImporter:
       terrain_962: -111179599
       terrain_21: -1434421615
       terrain_82: 1038499875
-      terrain_606: 224348495
       terrain_839: 361063946
+      terrain_606: 224348495
       terrain_431: 1196819649
       terrain_624: -278416567
       terrain_884: 911317778
@@ -20943,9 +20943,9 @@ TextureImporter:
       terrain_824: -1446658849
       terrain_346: 1157719924
       terrain_343: 78169436
-      terrain_536: -829212305
       terrain_875: 526250013
       terrain_78: -239008361
+      terrain_536: -829212305
       terrain_187: -1455764183
       terrain_760: -961024422
       terrain_712: -127679639
@@ -20957,19 +20957,19 @@ TextureImporter:
       terrain_670: 1794430261
       terrain_542: 1213863726
       terrain_38: -549175901
-      terrain_135: -1308675719
-      terrain_576: 253766210
       terrain_141: 1930842647
+      terrain_576: 253766210
       terrain_567: 1036649206
+      terrain_135: -1308675719
       terrain_199: -877218801
       terrain_797: 1992873102
       terrain_662: -1777403780
       terrain_17: 1475562242
       terrain_53: 1280204744
-      terrain_273: 1251404820
+      terrain_661: -1418837827
       terrain_562: 1261623688
       terrain_632: -2064750463
-      terrain_661: -1418837827
+      terrain_273: 1251404820
       terrain_717: 1684207886
       terrain_488: 1016711980
       terrain_795: -5842740
@@ -20993,19 +20993,19 @@ TextureImporter:
       terrain_241: -759210390
       terrain_732: -231570556
       terrain_178: -1674102996
-      terrain_243: 370300695
-      terrain_237: -1349671225
       terrain_741: 1093290294
+      terrain_237: -1349671225
+      terrain_866: -1969612293
       terrain_444: 1089633981
       terrain_740: 508956073
       terrain_835: 1871562713
+      terrain_243: 370300695
       terrain_517: -828800297
       terrain_656: -110681564
       terrain_372: -1085352839
       terrain_203: -491438444
       terrain_863: 1248732381
       terrain_838: 1359658335
-      terrain_866: -1969612293
       terrain_683: 278453315
       terrain_440: -1266847677
       terrain_859: 425743621

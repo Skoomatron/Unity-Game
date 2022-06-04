@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -21529,33 +21529,33 @@ TextureImporter:
       outside_478: -430072249
       outside_313: 1402323687
       outside_911: -1801543337
+      outside_860: -1560393084
       outside_633: -1100738496
       outside_669: -1927673716
-      outside_830: -1082262576
-      outside_557: 1669196052
       outside_831: 1469020966
+      outside_557: 1669196052
+      outside_830: -1082262576
       outside_325: -1147787053
-      outside_102: 1133593734
       outside_520: -1341124498
       outside_118: 140163389
-      outside_942: -1892645813
+      outside_102: 1133593734
       outside_125: 582872377
-      outside_462: 494264263
+      outside_694: 311546105
       outside_302: 679100801
-      outside_326: -1736224799
       outside_494: 1823558166
+      outside_942: -1892645813
       outside_217: 795818940
       outside_4: -56007706
       outside_614: -325772820
-      outside_367: -1704068583
+      outside_326: -1736224799
       outside_798: -1182710549
       outside_958: 1218031652
-      outside_694: 311546105
-      outside_524: -59239154
+      outside_950: -976705310
+      outside_367: -1704068583
       outside_1004: 146592795
       outside_276: -1023084964
-      outside_950: -976705310
-      outside_860: -1560393084
+      outside_462: 494264263
+      outside_524: -59239154
       outside_353: 1321460447
       outside_347: -72192880
       outside_822: -20483858
@@ -21608,8 +21608,8 @@ TextureImporter:
       outside_99: -436560112
       outside_597: -58028454
       outside_1002: 1237501619
-      outside_244: 2136000580
       outside_550: -1354782505
+      outside_244: 2136000580
       outside_622: -204579449
       outside_537: -1338101269
       outside_379: 1341006623
@@ -21631,7 +21631,6 @@ TextureImporter:
       outside_797: -867664876
       outside_397: -426487869
       outside_641: -1487002499
-      outside_905: 2009674817
       outside_948: -1196550307
       outside_951: -1910750440
       outside_377: -1363401083
@@ -21641,6 +21640,7 @@ TextureImporter:
       outside_132: -522397039
       outside_343: -1030810092
       outside_97: -1540079188
+      outside_905: 2009674817
       outside_711: 1476876544
       outside_114: 309921914
       outside_603: -2027040445
@@ -21740,9 +21740,9 @@ TextureImporter:
       outside_785: -148061922
       outside_539: 465413035
       outside_871: -1430425860
-      outside_221: -15702521
-      outside_103: -754708452
       outside_847: 1280887246
+      outside_103: -754708452
+      outside_221: -15702521
       outside_944: -1095840674
       outside_598: 1448068263
       outside_388: -675966925
@@ -21768,10 +21768,10 @@ TextureImporter:
       outside_189: 1803744133
       outside_73: -1568569965
       outside_9: -1755707651
-      outside_196: 760808444
-      outside_764: 999423281
-      outside_864: -1420653611
       outside_327: 1225845435
+      outside_764: 999423281
+      outside_196: 760808444
+      outside_864: -1420653611
       outside_972: 841803355
       outside_784: 600577297
       outside_680: -229589408
@@ -21780,9 +21780,9 @@ TextureImporter:
       outside_666: -484448835
       outside_850: -97758142
       outside_749: 1772770586
+      outside_755: 2040592861
       outside_599: -1873959453
       outside_750: 1079271890
-      outside_755: 2040592861
       outside_469: 888338251
       outside_201: -19695711
       outside_402: -151266934
@@ -21796,10 +21796,10 @@ TextureImporter:
       outside_631: -1923957096
       outside_967: 998107126
       outside_14: 1076911546
-      outside_720: 941199277
+      outside_963: 784174698
       outside_700: -1568776274
       outside_937: -1423725574
-      outside_963: 784174698
+      outside_720: 941199277
       outside_157: -635108049
       outside_959: 1966681514
       outside_865: -766891160
@@ -21807,8 +21807,8 @@ TextureImporter:
       outside_214: -406891418
       outside_63: -1258190013
       outside_941: 883272077
-      outside_655: 1989139026
       outside_988: -1359680992
+      outside_655: 1989139026
       outside_45: -1301138830
       outside_5: 2031595788
       outside_874: 1466273283
@@ -21977,18 +21977,18 @@ TextureImporter:
       outside_843: 1071665830
       outside_846: -254422862
       outside_393: -748744758
-      outside_79: 1849873259
-      outside_210: -1238043969
-      outside_679: 2096755696
       outside_783: -1906529941
-      outside_432: -929905852
-      outside_528: 1995609882
+      outside_821: 727757840
       outside_894: -1269386356
+      outside_79: 1849873259
+      outside_679: 2096755696
+      outside_432: -929905852
+      outside_210: -1238043969
+      outside_528: 1995609882
       outside_185: 569600398
       outside_625: 457096680
       outside_42: 745512390
       outside_994: -1663805099
-      outside_821: 727757840
       outside_997: -1161445420
       outside_256: -1865849843
       outside_165: 1720142684
@@ -22016,8 +22016,8 @@ TextureImporter:
       outside_308: 1246805483
       outside_815: 1333580380
       outside_817: 512350299
-      outside_794: 2146479984
       outside_969: 1577076743
+      outside_794: 2146479984
       outside_166: 871007585
       outside_585: 769385612
       outside_190: 1413304152
@@ -22034,9 +22034,9 @@ TextureImporter:
       outside_48: 998017570
       outside_249: -1036075875
       outside_267: -1441419630
-      outside_321: -525778587
-      outside_897: -1802359518
       outside_961: -1298239096
+      outside_897: -1802359518
+      outside_321: -525778587
       outside_752: 1791175453
       outside_521: -1032054998
       outside_174: 188218152
@@ -22058,15 +22058,15 @@ TextureImporter:
       outside_182: 778419489
       outside_1006: -134354087
       outside_224: -2080947246
-      outside_589: 2049245337
-      outside_870: 544954542
       outside_970: -1744024800
+      outside_589: 2049245337
       outside_195: -155646132
       outside_671: 1517460779
       outside_829: -1559230402
       outside_428: 779064078
       outside_445: 753076781
       outside_796: -143108758
+      outside_870: 544954542
       outside_522: -1984550596
       outside_632: 1638629954
       outside_915: -1896582451
@@ -22080,8 +22080,8 @@ TextureImporter:
       outside_281: -1364921330
       outside_938: 580520546
       outside_87: 1580444753
-      outside_461: 333147965
       outside_495: 540203667
+      outside_461: 333147965
       outside_842: -628805713
       outside_667: -1450772455
       outside_466: -645835147
@@ -22104,8 +22104,8 @@ TextureImporter:
       outside_82: -363878127
       outside_766: 1375251559
       outside_556: -911652412
-      outside_261: -528745941
       outside_957: 681481689
+      outside_261: -528745941
       outside_533: -2056537057
       outside_927: -232510618
       outside_985: -580481538
@@ -22131,12 +22131,12 @@ TextureImporter:
       outside_820: -2121132397
       outside_137: 1113338688
       outside_906: 1421539060
-      outside_140: 1384681665
+      outside_924: 1462280160
       outside_845: 1113568874
       outside_525: 273855345
       outside_770: 517825165
       outside_85: -1174503653
-      outside_924: 1462280160
+      outside_140: 1384681665
       outside_208: -263732794
       outside_660: -1493682274
       outside_1012: 1631742777
@@ -22151,9 +22151,9 @@ TextureImporter:
       outside_223: -648837625
       outside_11: 457118673
       outside_20: 1899182195
-      outside_65: -1372712214
       outside_247: 955681214
       outside_723: -1559738490
+      outside_65: -1372712214
       outside_536: 1534340515
       outside_90: -1244914227
       outside_234: -2005475686
@@ -22162,9 +22162,9 @@ TextureImporter:
       outside_136: -1496592377
       outside_176: 395556676
       outside_650: 1992601184
+      outside_619: 1576700568
       outside_57: 869237010
       outside_879: -1357004868
-      outside_619: 1576700568
       outside_188: 1332851854
       outside_310: -339269879
       outside_415: 927733292

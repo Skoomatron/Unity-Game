@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -6997,31 +6997,31 @@ TextureImporter:
       castle_142: -1786126716
       castle_70: 904735394
       castle_45: -1164045539
+      castle_221: 1483164871
       castle_73: 1658728533
-      castle_38: 991995783
       castle_214: 719351635
-      castle_64: -107053120
+      castle_154: -294005001
       castle_103: 396069342
+      castle_38: 991995783
       castle_7: 1713782857
+      castle_271: 2103971661
       castle_52: -442030768
       castle_106: 1108793715
       castle_55: 113227370
-      castle_271: 2103971661
-      castle_154: -294005001
       castle_196: -844933390
       castle_147: -1222492517
       castle_303: 1894036403
       castle_201: -2002564051
-      castle_221: 1483164871
       castle_254: 651247219
       castle_123: -369874604
       castle_188: -1688233531
       castle_193: -1949088600
-      castle_309: -1616148652
+      castle_64: -107053120
       castle_293: -20405183
       castle_311: -841342745
       castle_215: -167533447
       castle_238: -487611716
+      castle_309: -1616148652
       castle_56: -1794047840
       castle_189: 723713213
       castle_65: -252676769
@@ -7087,22 +7087,22 @@ TextureImporter:
       castle_272: -865357998
       castle_156: -1941175333
       castle_101: 1733402665
-      castle_80: -598511417
-      castle_13: 107209150
       castle_18: -16410338
+      castle_226: 1897908687
+      castle_322: -2124867228
       castle_174: 19160728
       castle_169: 2140560908
       castle_31: -1400946217
       castle_126: 1822168084
-      castle_226: 1897908687
       castle_301: 1448101660
       castle_269: -1102817112
       castle_57: 95345993
       castle_262: 794344828
       castle_247: -1067305571
       castle_304: -1944750123
+      castle_80: -598511417
+      castle_13: 107209150
       castle_23: 2124301618
-      castle_322: -2124867228
       castle_112: 748965319
       castle_110: 1252107997
       castle_227: 746094600
